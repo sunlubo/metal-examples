@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' executeOnSourceChanges='false'>
+    <pages>
+        <page name='Compute'/>
+        <page name='MPS'/>
+        <page name='Clear'/>
+        <page name='2D'/>
+        <page name='3D'/>
+        <page name='Lighting'/>
+        <page name='Texture'/>
+    </pages>
+</playground>
